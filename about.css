@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 100px;
+  color: #556B2F;
+}
+#logo {
+  width: 125px;
+  height: auto;
+  padding: 5px;
+}
+h2 {
+  font-family: 'Coming Soon', cursive;
+  padding-left: 20px;
+  color: #556B2F;
+}
+body {
+  background-image: url("https://i.imgur.com/zlYwYpb.jpg");
+  background-size: cover;
+  margin: 30px 100px;
+}
+.navbar-navbar-inverse-navbar-fixed {
+  border-width: 2px;
+  border-color: #556B2F;
+  border-bottom-style: solid;
+  border-top-style: solid;
+  font-family: 'Coming Soon', cursive;
+  font-size: 20px;
+  font-style: thick;
+}
